@@ -1,4 +1,4 @@
 # popup-notifications
-Декларирование бизнез процессов в Layer\UseCase
+Декларирование бизнеc процессов в Layer\UseCase
 
 Реализации интерфейсов в Layer\Persistence\Action
